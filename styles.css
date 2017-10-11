@@ -1,0 +1,26 @@
+body {
+	background-color: #000000;
+}
+h1 {
+	color: #00ffff;
+	font-family: Arial;
+}
+p {
+	color: #ffffff;
+	font-family: Verdana;
+}
+div.greet {
+	background-color: #0f0f0f;
+	margin: 20px 100px 20px 100px;
+	padding: 20px;
+}
+div.intro {
+	background-color: #3f3f3f;
+	margin: 20px 100px 20px 100px;
+	padding: 100px;
+}
+div.photo {
+	background-color: #3f3f3f;
+	margin: 20px 100px 20px 100px;
+	padding: 20px;
+}
